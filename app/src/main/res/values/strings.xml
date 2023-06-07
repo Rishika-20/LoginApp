@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <string name="user_exists_or_not">Not a member yet? - </string>
+    <string-array name="studios_list">
+        <item> Select your club ?:</item>
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>DevOps</item>
+        <item>QA</item>
+        <item>Front End</item>
+        <item>AI/ML</item>
+    </string-array>
+    <style name="SpinnerPopupStyle" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">#FFFFFF</item>
+        <item name="android:textColor">#E53935</item>
+    </style>
+</resources>
